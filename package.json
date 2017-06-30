@@ -1,0 +1,12 @@
+{
+  "name": "uplift",
+  "version": "0.0.1",
+  "description": "Transpile ES5 to ES2015",
+  "main": "index.js",
+  "repository": "https://github.com/rajikaimal/uplift",
+  "author": "rajikaimal <inbox.rajika@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.5.2"
+  }
+}
