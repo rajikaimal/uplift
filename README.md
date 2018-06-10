@@ -1,5 +1,7 @@
 # uplift
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/uplift.svg)](https://greenkeeper.io/)
+
 ## estree
 
 estree [Abstract syntax tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) specification
